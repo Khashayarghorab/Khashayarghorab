@@ -58,3 +58,11 @@ I also build practical tools and prototypes that connect research to application
 <div align="center">
   <sub>Research-led AI, built for practical use.</sub>
 </div>
+
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Khashayarghorab&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
