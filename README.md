@@ -49,9 +49,7 @@ I also build practical tools and prototypes that connect research to application
 
 ## Publications & academic profiles
 
-Explore my research publications on [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2020&q=khashayar+ghorab&btnG=&oq=kh) and my [ORCID profile](https://orcid.org/0000-0001-7321-0568).
-
-> Note: The Google Scholar link currently opens a publication search. Replace it with my public Google Scholar author-profile link (`https://scholar.google.com/citations?user=YOUR_ID`) when available.
+Explore my research publications on [Google Scholar](https://scholar.google.com/citations?user=-rhiHcAAAAAJ) and my [ORCID profile](https://orcid.org/0000-0001-7321-0568).
 
 ## GitHub streak
 
