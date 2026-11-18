@@ -51,9 +51,5 @@ I also build practical tools and prototypes that connect research to application
 
 Explore my research publications on [Google Scholar](https://scholar.google.com/citations?user=-rhiHcAAAAAJ) and my [ORCID profile](https://orcid.org/0000-0001-7321-0568).
 
-## GitHub streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Khashayarghorab&theme=dark&hide_border=true" alt="GitHub contribution streak" />
-</div>
 
